@@ -7,15 +7,25 @@ namespace UI
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to my store!");
+            Console.WriteLine("Welcome to Cat Facts LLC.");
             Customer newCustomer = new Customer();
-            newCustomer.Name = "Goofball";
+            newCustomer.Name = "Default";
             newCustomer.Age = 1000;
+            Console.WriteLine("Enter username:");
+
+            string username = Console.ReadLine();
+            //TODO implement
+            Customer customer = GetOrCreateCustomer(username);
             
             StoreFront myStore = new StoreFront () {
-                Name = "My Store",
+                Name = "Goofball's Fine Goods",
                 Address = "Goofball Ave., Vanadzor, Azerbaijan"
             };
+
+            Console.WriteLine("[1] Place an order");
+            Console.WriteLine("[2] View order history");
+            Console.WriteLine("[3] Select store location");
+            Console.WriteLine("[x] Exit");
 
             Console.WriteLine(myStore.ToString());
             myStore.Name = Console.ReadLine();
