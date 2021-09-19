@@ -1,0 +1,17 @@
+C:\Users\coled\Desktop\Coding\P0\StoreBL\bin\Debug\net5.0\StoreBL.deps.json
+C:\Users\coled\Desktop\Coding\P0\StoreBL\bin\Debug\net5.0\StoreBL.dll
+C:\Users\coled\Desktop\Coding\P0\StoreBL\bin\Debug\net5.0\ref\StoreBL.dll
+C:\Users\coled\Desktop\Coding\P0\StoreBL\bin\Debug\net5.0\StoreBL.pdb
+C:\Users\coled\Desktop\Coding\P0\StoreBL\obj\Debug\net5.0\StoreBL.csproj.AssemblyReference.cache
+C:\Users\coled\Desktop\Coding\P0\StoreBL\obj\Debug\net5.0\StoreBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coled\Desktop\Coding\P0\StoreBL\obj\Debug\net5.0\StoreBL.AssemblyInfoInputs.cache
+C:\Users\coled\Desktop\Coding\P0\StoreBL\obj\Debug\net5.0\StoreBL.AssemblyInfo.cs
+C:\Users\coled\Desktop\Coding\P0\StoreBL\obj\Debug\net5.0\StoreBL.csproj.CoreCompileInputs.cache
+C:\Users\coled\Desktop\Coding\P0\StoreBL\obj\Debug\net5.0\StoreBL.dll
+C:\Users\coled\Desktop\Coding\P0\StoreBL\obj\Debug\net5.0\ref\StoreBL.dll
+C:\Users\coled\Desktop\Coding\P0\StoreBL\obj\Debug\net5.0\StoreBL.pdb
+C:\Users\coled\Desktop\Coding\P0\StoreBL\bin\Debug\net5.0\Models.dll
+C:\Users\coled\Desktop\Coding\P0\StoreBL\bin\Debug\net5.0\StoreDL.dll
+C:\Users\coled\Desktop\Coding\P0\StoreBL\bin\Debug\net5.0\Models.pdb
+C:\Users\coled\Desktop\Coding\P0\StoreBL\bin\Debug\net5.0\StoreDL.pdb
+C:\Users\coled\Desktop\Coding\P0\StoreBL\obj\Debug\net5.0\StoreBL.csproj.CopyComplete
